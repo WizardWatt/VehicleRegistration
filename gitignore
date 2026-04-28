@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Hardhat files
+cache/
+artifacts/
+typechain/
+typechain-types/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Coverage
+coverage/
+coverage.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Build files
+dist/
+build/
+
+# Hardhat
+hardhat.config.ts
+hardhat.config.js
+
+# Testing
+.coverage_cache/
+.coverage_contracts/
+
+# Deployment
+deployments/
+.openzeppelin/
