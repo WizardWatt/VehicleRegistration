@@ -68,7 +68,7 @@ cp .env.example .env
 ## 📁 Project Structure
 
 ```
-vehicle-registry-blockchain/
+VehicleRegistration/
 ├── contracts/              # Solidity smart contracts
 │   └── VehicleRegistry.sol
 ├── scripts/               # Deployment and interaction scripts
@@ -282,7 +282,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Project Link: [https://github.com/yourusername/vehicle-registry-blockchain](https://github.com/yourusername/vehicle-registry-blockchain)
+Project Link: [https://github.com/WizardWatt/VehicleRegistration](https://github.com/WizardWatt/VehicleRegistration)
 
 ## 🙏 Acknowledgments
 

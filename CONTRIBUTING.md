@@ -42,8 +42,8 @@ Enhancement suggestions are welcome! Please provide:
 
 1. Fork and clone the repository
 ```bash
-git clone https://github.com/your-username/vehicle-registry-blockchain.git
-cd vehicle-registry-blockchain
+git clone https://github.com/WizardWatt/VehicleRegistration.git
+cd VehicleRegistration
 ```
 
 2. Install dependencies
@@ -224,7 +224,7 @@ Update relevant documentation when you:
 
 - **Discord/Slack**: [Link to community chat]
 - **GitHub Discussions**: For questions and general discussion
-- **Stack Overflow**: Tag your question with `vehicle-registry-blockchain`
+- **Stack Overflow**: Tag your question with `VehicleRegistration`
 
 ## Recognition
 

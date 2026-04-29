@@ -1,7 +1,7 @@
 # Project Directory Structure
 
 ```
-vehicle-registry-blockchain/
+VehicleRegistration/
 │
 ├── contracts/                      # Smart Contract Files
 │   └── VehicleRegistry.sol        # Main vehicle registry contract

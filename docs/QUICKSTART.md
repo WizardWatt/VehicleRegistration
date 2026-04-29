@@ -19,8 +19,8 @@ Get started with Vehicle Registry Blockchain in 5 minutes!
 
 ### Step 1: Clone and Install
 ```bash
-git clone https://github.com/yourusername/vehicle-registry-blockchain.git
-cd vehicle-registry-blockchain
+git clone https://github.com/WizardWatt/VehicleRegistration.git
+cd VehicleRegistration
 npm install
 ```
 
