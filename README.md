@@ -50,8 +50,8 @@ The `VehicleRegistry` smart contract stores vehicle information on-chain, includ
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vehicle-registry-blockchain.git
-cd vehicle-registry-blockchain
+git clone https://github.com/WizardWatt/VehicleRegistration.git
+cd VehicleRegistration
 ```
 
 2. Install dependencies:
@@ -68,7 +68,7 @@ cp .env.example .env
 ## 📁 Project Structure
 
 ```
-vehicle-registry-blockchain/
+VehicleRegistration/
 ├── contracts/              # Solidity smart contracts
 │   └── VehicleRegistry.sol
 ├── scripts/               # Deployment and interaction scripts
