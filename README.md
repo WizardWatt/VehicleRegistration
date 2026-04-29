@@ -78,11 +78,15 @@ vehicle-registry-blockchain/
 │   └── VehicleRegistry.test.js
 ├── docs/                  # Additional documentation
 │   └── ARCHITECTURE.md
+│   └── DEPLOYEMENT.md
+│   └── QUICKSTART.md
+│   └── STRUCTURE.md
 ├── .gitignore
 ├── hardhat.config.js      # Hardhat configuration
 ├── package.json
 ├── README.md
-└── LICENSE
+├── LICENSE
+└── CONTRIBUTING.md
 ```
 
 ## 💻 Usage
